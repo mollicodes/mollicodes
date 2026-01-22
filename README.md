@@ -6,11 +6,15 @@
 ---
 
 ### 🚀 Tecnologías que domino:
-- **Frontend:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Angular, React
+- **Lenguajes:** Java, JavaScript, TypeScript
+- **Frontend:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Angular, AngularJS, Bootstrap, React
 - **Backend:** Node.js, Express.js
-- **Bases de datos:** MongoDB, MySQL
-- **Herramientas y otros:** Git, GitHub, REST APIs, Jest (Testing)
-
+- **Mobile:** Android Nativo (Java)
+- **Bases de datos:** SQL, MySQL, NoSQL
+- **Cloud y DevOps:** AWS (API Gateway, S3), Jenkins, GitHub Actions, Sonar, SonarQube
+- **Testing & Tools:** Jest, JMeter, Postman
+- **Diseño y Colaboración:** Figma, Adobe XD, Jira
+- **Control de Versiones:** Git
 ---
 
 ### 📌 Sobre mí:
@@ -22,17 +26,8 @@ Me encanta trabajar en proyectos donde pueda combinar lógica de negocio y exper
 
 ---
 
-### 📂 Proyectos destacados:
-- **Gestor de tareas** con Node.js + MongoDB (CRUD completo con autenticación JWT)
-- **API REST de e-commerce** con Express y MySQL
-- **Aplicación web de tiempo real** con WebSockets
-*(Los proyectos estarán enlazados en mi portafolio próximamente)*
-
----
-
 ### 📫 Cómo contactarme:
 - ✉️ Email: **mollicodes@gmail.com**
-
 
 ---
 
